@@ -1,4 +1,4 @@
-# Xiaoai-Touchpad-Remapper
+# Xiaomi-Touchpad-Remapper
 
 这个项目用于将 Xiaomi Book Pro 14 触控板的重按动作重定向到 Windows 系统截图界面，效果等同于 `Win+Shift+S`。
 
