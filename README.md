@@ -1,4 +1,4 @@
-# XiaoAi To Snipping Tool
+# Xiaoai-Touchpad-Remapper
 
 这个项目用于把 `XiaoaiAgent.exe` 的启动重定向到 Windows 系统截图界面，效果等同于 `Win+Shift+S`。
 
