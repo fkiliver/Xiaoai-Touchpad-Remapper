@@ -2,6 +2,6 @@ internal static class Program
 {
     private static int Main()
     {
-        return RemapCommon.Restore();
+        return ClientPathRemapCommon.Install();
     }
 }
